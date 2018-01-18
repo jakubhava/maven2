@@ -4,7 +4,6 @@
   <groupId>ai.h2o</groupId>
   <artifactId>sparkling-water-package</artifactId>
   <version>2.2.15</version>
-  <packaging>pom</packaging>
   <dependencies>
     <dependency>
       <groupId>no.priv.garshol.duke</groupId>
