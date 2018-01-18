@@ -9,12 +9,15 @@
       <groupId>ai.h2o</groupId>
       <artifactId>h2o-genmodel</artifactId>
       <version>3.19.0.1</version>
+      <type>pom</type>
       <scope>runtime</scope>
     </dependency>
     <dependency>
       <groupId>ai.h2o</groupId>
       <artifactId>h2o-jaas-pam</artifactId>
       <version>3.19.0.1</version>
+            <type>pom</type>
+
       <scope>runtime</scope>
     </dependency>
   </dependencies>
