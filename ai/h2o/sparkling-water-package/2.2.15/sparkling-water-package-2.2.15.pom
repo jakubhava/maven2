@@ -10,31 +10,31 @@
       <groupId>no.priv.garshol.duke</groupId>
       <artifactId>duke</artifactId>
       <version>1.2</version>
-      <scope>compile</scope>
+      <scope>runtime</scope>
     </dependency>
     <dependency>
       <groupId>ai.h2o</groupId>
       <artifactId>sparkling-water-core</artifactId>
       <version>2.2.15</version>
-      <scope>compile</scope>
+      <scope>runtime</scope>
     </dependency>
     <dependency>
       <groupId>ai.h2o</groupId>
       <artifactId>sparkling-water-examples</artifactId>
       <version>2.2.15</version>
-      <scope>compile</scope>
+      <scope>runtime</scope>
     </dependency>
     <dependency>
       <groupId>ai.h2o</groupId>
       <artifactId>sparkling-water-ml</artifactId>
       <version>2.2.15</version>
-      <scope>compile</scope>
+      <scope>runtime</scope>
     </dependency>
     <dependency>
       <groupId>ai.h2o</groupId>
       <artifactId>sparkling-water-repl</artifactId>
       <version>2.2.15</version>
-      <scope>compile</scope>
+      <scope>runtime</scope>
     </dependency>
   </dependencies>
   <name>sparkling-water-package</name>
