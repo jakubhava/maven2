@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>ai.h2o</groupId>
+  <artifactId>h2o-genmodel-ext-xgboost</artifactId>
+  <versioning>
+    <versions>
+      <version>3.17.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180118095901</lastUpdated>
+  </versioning>
+</metadata>
