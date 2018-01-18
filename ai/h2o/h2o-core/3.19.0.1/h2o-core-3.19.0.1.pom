@@ -20,7 +20,7 @@
   <description>H2O Core</description>
   <url>https://github.com/h2oai/h2o-3</url>
   <inceptionYear>2013</inceptionYear>
-  <packaging>jar</packaging>
+  <packaging>pom</packaging>
   <organization>
     <name>H2O.ai</name>
     <url>http://h2o.ai/</url>
