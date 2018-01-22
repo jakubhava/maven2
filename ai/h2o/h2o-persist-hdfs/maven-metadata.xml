@@ -3,10 +3,10 @@
   <groupId>ai.h2o</groupId>
   <artifactId>h2o-persist-hdfs</artifactId>
   <versioning>
-    <release>3.17.1</release>
+    <release>3.17.0.99999</release>
     <versions>
-      <version>3.17.1</version>
+      <version>3.17.0.99999</version>
     </versions>
-    <lastUpdated>20180122134823</lastUpdated>
+    <lastUpdated>20180122155414</lastUpdated>
   </versioning>
 </metadata>
